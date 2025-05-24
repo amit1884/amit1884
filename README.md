@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated software development professional with 2 years of experience, holding a B.Tech degree in Computer Science and Engineering from NIT Jamshedpur. My expertise primarily lies in frontend development, where I excel in utilizing various cutting-edge technologies to create dynamic and user-friendly interfaces. In addition to my frontend prowess, I have a strong interest in backend technologies, allowing me to maintain a well-rounded skill set in software development. I am passionate about continuously learning and adapting to new advancements in the field to deliver high-quality solutions.
+I am a dedicated software development professional with 2 years and 11 months of experience, holding a B.Tech degree in Computer Science and Engineering from NIT Jamshedpur. My expertise primarily lies in frontend development, where I excel in utilizing various cutting-edge technologies to create dynamic and user-friendly interfaces. In addition to my frontend prowess, I have a strong interest in backend technologies, allowing me to maintain a well-rounded skill set in software development. I am passionate about continuously learning and adapting to new advancements in the field to deliver high-quality solutions.
 
 
 ## 🌐 Socials:
