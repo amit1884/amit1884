@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer with over 3.5 years of experience and a B.Tech from NIT Jamshedpur. Specialized in building
+Software Engineer with over 3.9 years of experience and a B.Tech from NIT Jamshedpur. Specialized in building
 high-performance, scalable web and mobile applications with expertise in React.js, Next.js, and React Native. Proven track
 record in migrating complex monoliths into Micro-Frontend systems, architecting custom rendering engines, and delivering
 cross-platform impact in the Marketing Analytics and E-commerce domains.
